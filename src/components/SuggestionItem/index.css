@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.list-element {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: -10px;
+}
+.suggestion-name {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+}
+.arrow-logo {
+  height: 25px;
+  cursor: pointer;
+}
